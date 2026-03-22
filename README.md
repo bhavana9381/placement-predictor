@@ -20,3 +20,13 @@ A data-driven web application that predicts student placement chances using acad
 ```bash
 pip install streamlit
 streamlit run app.py
+
+## 📸 UI Preview
+
+### result
+!Screenshot 2026-03-22 101653.png
+
+### 📊  Result
+Screenshot 2026-03-22 101735.png
+
+
