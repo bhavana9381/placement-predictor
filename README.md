@@ -26,7 +26,6 @@ streamlit run app.py
 ### 🏠 result
 ![result](Screenshot1.png)
 
-### 📊 Prediction Result
-![Result](Screenshot2.png)
+
 
 
