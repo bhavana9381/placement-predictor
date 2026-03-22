@@ -23,10 +23,10 @@ streamlit run app.py
 
 ## 📸 UI Preview
 
-### result
-!Screenshot 2026-03-22 101653.png
+### 🏠 result
+![result](Screenshot1.png)
 
-### 📊  Result
-Screenshot 2026-03-22 101735.png
+### 📊 Prediction Result
+![Result](Screenshot2.png)
 
 
